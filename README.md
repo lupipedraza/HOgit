@@ -1,3 +1,13 @@
+
+
+
+
+
+
+
+
+
+
 HOLAAAAAA
 Acá estoy modificando el archivo!! (o no?)
 
@@ -11,6 +21,15 @@ Acá modifico de nuevo!! (pero ahora en un branch!)
 
 ### Commits
 Modificar un archivo y agregarlo al repositorio como un nuevo commit
+
+
+
+
+HOLAAAA!!!
+
+
+
+Una vez más!!
 
 ### Branches
 Creamos un branch acerca de las charlas, y decimos que nos parecen buenísimas
